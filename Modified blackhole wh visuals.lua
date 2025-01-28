@@ -107,6 +107,6 @@ end)
 
 StarterGui:SetCore("SendNotification", {
     Title = "Script Executed";
-    Text = "Made by daveclr :)";
+    Text = "MODIFIED by rrqrenfier on discord :)";
     Duration = 5;
 })
